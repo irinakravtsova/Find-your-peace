@@ -25,7 +25,7 @@ body {
 
 .Mask_Group {   
    min-height: 833px;
-   background-image: url(imagies/header_fone.jpg);
+   background-image: url(header_fone.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    }  
